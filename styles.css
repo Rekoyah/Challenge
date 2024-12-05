@@ -1,3 +1,5 @@
-a {
+<style>
+a:link {
   color: "green"
 }
+</style>
